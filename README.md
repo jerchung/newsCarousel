@@ -1,0 +1,4 @@
+newsCarousel
+============
+
+Javascript articles carousel
